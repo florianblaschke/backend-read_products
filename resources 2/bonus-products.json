@@ -1,4 +1,4 @@
-/* [
+[
   {
     "_id": {
       "$oid": "626a48a8916f633a190f0251"
@@ -6,7 +6,8 @@
     "name": "Shrimp",
     "description": "Prefers to live in pairs",
     "price": 19,
-    "currency": "EUR"
+    "currency": "EUR",
+    "reviews": ["63b598370e7740872e8c10c1"]
   },
   {
     "_id": {
@@ -15,7 +16,8 @@
     "name": "Anemonefish",
     "description": "Nemo",
     "price": 65,
-    "currency": "EUR"
+    "currency": "EUR",
+    "reviews": ["63b598370e7740872e8c10c2"]
   },
   {
     "_id": {
@@ -24,7 +26,8 @@
     "name": "Splendid anemone",
     "description": "Is splendid",
     "price": 90,
-    "currency": "EUR"
+    "currency": "EUR",
+    "reviews": ["63b598370e7740872e8c10c3", "63b598370e7740872e8c10c4"]
   },
   {
     "_id": {
@@ -42,7 +45,8 @@
     "name": "Angelfish",
     "description": "A diurnal loner",
     "price": 90,
-    "currency": "EUR"
+    "currency": "EUR",
+    "reviews": ["63b598370e7740872e8c10c5", "63b598370e7740872e8c10c2"]
   },
   {
     "_id": {
@@ -51,57 +55,13 @@
     "name": "Guppy",
     "description": "Small but nice",
     "price": 5,
-    "currency": "EUR"
+    "currency": "EUR",
+    "reviews": ["63b598370e7740872e8c10c4", "63b598370e7740872e8c10c1"]
   },
   {
     "_id": {
       "$oid": "626a4a1e916f633a190f0266"
     },
-    "name": "Rainbow fish",
-    "description": "In all colors",
-    "price": 12,
-    "currency": "EUR"
-  }
-] */
-
-[
-  {
-    "name": "Shrimp",
-    "description": "Prefers to live in pairs",
-    "price": 19,
-    "currency": "EUR"
-  },
-  {
-    "name": "Anemonefish",
-    "description": "Nemo",
-    "price": 65,
-    "currency": "EUR"
-  },
-  {
-    "name": "Splendid anemone",
-    "description": "Is splendid",
-    "price": 90,
-    "currency": "EUR"
-  },
-  {
-    "name": "Killer mussel",
-    "description": "Is prettier than her name",
-    "price": 12,
-    "currency": "EUR"
-  },
-  {
-    "name": "Angelfish",
-    "description": "A diurnal loner",
-    "price": 90,
-    "currency": "EUR"
-  },
-  {
-    "name": "Guppy",
-    "description": "Small but nice",
-    "price": 5,
-    "currency": "EUR"
-  },
-  {
     "name": "Rainbow fish",
     "description": "In all colors",
     "price": 12,
